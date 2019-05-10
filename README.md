@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/cisco/libsrtp.svg?branch=master)](https://travis-ci.org/cisco/libsrtp)
-[![Coverity Scan Build Status](https://scan.coverity.com/projects/14274/badge.svg)](https://scan.coverity.com/projects/cisco-libsrtp)
+[![Build Status](https://dev.azure.com/prometheansacrifice/esy-packages/_apis/build/status/prometheansacrifice.esy-libsrtp?branchName=master)](https://dev.azure.com/prometheansacrifice/esy-packages/_build/latest?definitionId=30&branchName=master)
+
 
 <a name="introduction-to-libsrtp"></a>
 # Introduction to libSRTP
